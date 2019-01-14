@@ -1,0 +1,38 @@
+while ( temp )
+{
+rev = temp % 16;
+hex [ i ] = rev;
+i=i+1;
+temp = temp/16;
+}
+for (j=i; j>=0; j--)
+{
+if (hex [j]<9)
+printf ("%d",hex[j]);
+else
+{
+switch (hex[i])
+{
+case 10 : printf ("A"); break ;
+case 11 : printf ("B"); break ;
+case 12 : printf ("C"); break ;
+case 13 : printf ("D"); break ;
+case 14 : printf ("E"); break ;
+case 15 : printf ("F"); break ;
+}
+}
+}
+
+
+
+//power function
+int power ( int a, int b)   //base,exp
+{
+    int c,i;
+    c=1;
+  for (i=1; i<=b; i++)
+  {
+      c=c*a;
+  }
+  return c;
+}

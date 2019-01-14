@@ -1,0 +1,112 @@
+		THE ROYAL TEXTILE COMPANY
+		shalimar bagh new delhi
+
+Employee Name: Rahul kumar
+Employee ID: 87548FG
+Date: 12/02/2018
+Earnings:					Deductions:
+Basic:30000					P.F.:3000
+DA:2000					ESI:1200
+HRA:0					TAXES:0
+ohther:0					TDS:0
+total earning:32000					total deduction:4200
+
+Net payment:27800
+
+----------------------------------------------------------------------------------------
+		THE ROYAL TEXTILE COMPANY
+		shalimar bagh new delhi
+
+Employee Name: sandeep
+Employee ID: 46546
+Date: 12/02/2018
+Earnings:					Deductions:
+Basic:12000				P.F.:2000
+DA:0					ESI:0
+HRA:0					TAXES:0
+ohther:0					TDS:0
+total earning:12000				total deduction:2000
+
+Net payment:10000
+
+----------------------------------------------------------------------------------------
+		THE ROYAL TEXTILE COMPANY
+		shalimar bagh new delhi
+
+Employee Name: Sandeep
+Employee ID: 7547RR785
+Date: 12/02/2018
+Earnings:					Deductions:
+Basic:20000				P.F.:3000
+DA:0					ESI:0
+HRA:0					TAXES:0
+ohther:2000					TDS:200
+total earning:22000				total deduction:3200
+
+Net payment:18800
+
+----------------------------------------------------------------------------------------
+		THE ROYAL TEXTILE COMPANY
+		shalimar bagh new delhi
+
+Employee Name: Sourav
+Employee ID: 7675GH
+Date: 12/05/2018
+Earnings:					Deductions:
+Basic:30000				P.F.:2000
+DA:0					ESI:0
+HRA:0					TAXES:0
+ohther:2000					TDS:300
+total earning:32000				total deduction:2300
+
+Net payment:29700
+
+----------------------------------------------------------------------------------------
+		THE ROYAL TEXTILE COMPANY
+		shalimar bagh new delhi
+
+Employee Name: Sanjay
+Employee ID: 4565
+Date: 12/12/2018
+Earnings:					Deductions:
+Basic:40000				P.F.:200
+DA:0					ESI:0
+HRA:0					TAXES:0
+ohther:900					TDS:0
+total earning:40900				total deduction:200
+
+Net payment:40700
+
+----------------------------------------------------------------------------------------
+		THE ROYAL TEXTILE COMPANY
+		shalimar bagh new delhi
+
+Employee Name: Jay
+Employee ID: 56544
+Date: 03/12/2018
+Earnings:					Deductions:
+Basic:20000				P.F.:2000
+DA:0					ESI:0
+HRA:0					TAXES:0
+ohther:1000					TDS:0
+total earning:21000				total deduction:2000
+
+Net payment:19000
+
+----------------------------------------------------------------------------------------
+		THE ROYAL TEXTILE COMPANY
+		shalimar bagh new delhi
+
+Employee Name: Kunal
+Employee ID: 56325
+Date: 13/06/2018
+Earnings:					Deductions:
+Basic:10000				P.F.:1000
+DA:0					ESI:0
+HRA:0					TAXES:0
+ohther:2000					TDS:200
+total earning:12000				total deduction:1200
+
+Net payment:10800
+
+----------------------------------------------------------------------------------------
